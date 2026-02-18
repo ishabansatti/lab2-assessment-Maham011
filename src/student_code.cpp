@@ -14,7 +14,7 @@ float getFloatValue() {
 }
 
 char getCharValue() {
-    char var_char = "A";
+    char var_char = A;
     return var_char;
 }
 
@@ -32,7 +32,8 @@ Formula:
 float fahrenheitToCelsius(float fahrenheit) {
     //int fahrenheit=6;
     //cout<<"value in fahrenheit is "<<fahrenheit<<endl;
-     //Celsius = (Fahrenheit - 32) * 5 / 9;
+     Celsius = (Fahrenheit - 32) * 5 / 9;
+    return celcius;
     //cout<<"value in celcuis is" <<Celcius<<endl;
    // return 0;
     //return celsius;
