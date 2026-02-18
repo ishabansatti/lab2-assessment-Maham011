@@ -14,8 +14,8 @@ float getFloatValue() {
 }
 
 char getCharValue() {
-    char var_char = A;
-    return var_char;
+    //char var_char = A;
+   // return var_char;
 }
 
 int convertFloatToInt(float value) {
