@@ -9,7 +9,7 @@ int getIntValue() {
 
 float getFloatValue() {
     //io
-    float var_float = 10.75;
+    float var_float = 10.75f;
     return var_float;
 }
 
