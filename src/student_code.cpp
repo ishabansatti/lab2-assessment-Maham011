@@ -32,7 +32,7 @@ Formula:
 float fahrenheitToCelsius(float fahrenheit) {
     //int fahrenheit=6;
     //cout<<"value in fahrenheit is "<<fahrenheit<<endl;
-    float Celsius = (Fahrenheit - 32) * 5 / 9;
+    float Celsius = (fahrenheit - 32) * 5 / 9;
     return Celsius;
     //cout<<"value in celcuis is" <<Celsius<<endl;
    // return 0;
