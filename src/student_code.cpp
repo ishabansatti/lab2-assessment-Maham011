@@ -13,12 +13,12 @@ float getFloatValue() {
     return var_float;
 }
 
-char getCharValue() {
+//char getCharValue() {
     //char var_char = A;
     //return var_char;
 }
 
-int convertFloatToInt(float value) {
+//int convertFloatToInt(float value) {
     // convert value to int.
     //return value;
 }
